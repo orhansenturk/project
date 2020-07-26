@@ -1,0 +1,27 @@
+
+html, body {
+    background-color: darkkhaki;
+    margin: 0;
+    opacity: 2;
+}
+
+#content {
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+.v-align {
+    padding-top: 5%;
+    height: 100%;
+    width: 100%;
+    display: table;
+    vertical-align: middle;
+}
+
+.the-title{
+    font-size: 60px!important;
+}
+
+.thank-you {
+    font-size: 60px!important;
+    margin-top: 15%!important;
+}
