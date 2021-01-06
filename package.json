@@ -2,7 +2,7 @@
   "name": "Personality-Survey",
   "version": "0.0.1",
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "babel-jest": "^21.0.2",
     "babel-loader": "^7.1.2",
     "body-parser": "^1.18.1",
